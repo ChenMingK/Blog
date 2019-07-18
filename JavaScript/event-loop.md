@@ -68,8 +68,6 @@ function sleep (ms) {
 
 GUI 渲染线程和 JavaScript 引擎线程是互斥的，其他线程相互之间都是可以并行执行的。
 
-<img src="https://box.kancloud.cn/6ada796292f275f364445670068e36af_730x760.png />
-
 
 浏览器中，JavaScript 引擎循环地从任务队列中读取任务并执行，这种运行机制就叫做事件循环。
 更准确地说，事件循环是按下面几个步骤执行的：
@@ -78,6 +76,8 @@ GUI 渲染线程和 JavaScript 引擎线程是互斥的，其他线程相互之�
 3.  执行所有微任务
 4.  必要的话渲染 UI
 5.  然后开始下一轮 Event loop，执行宏任务中的异步代码
+
+<img src="https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/images/eventloop.png" width=70%/>
 
 ## 例题
 ```js
