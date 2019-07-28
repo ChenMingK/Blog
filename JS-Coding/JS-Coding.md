@@ -181,10 +181,6 @@ function throttle(fn, interval) {
   }
 }
 ```
-# 手写Promise
-臣妾做不到啊...
-[https://juejin.im/post/5aa7868b6fb9a028dd4de672#heading-10](https://juejin.im/post/5aa7868b6fb9a028dd4de672#heading-10)
-
 # 函数柯里化
 在计算机科学中，柯里化（Currying）是把接受多个参数的函数变换成接受一个单一参数（最初函数的第一个参数）的函数，并且返回接受余下的参数且返回结果的新函数的技术。
 **函数柯里化的主要作用和特点就是参数复用、提前返回和延迟执行。**
