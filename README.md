@@ -3,6 +3,10 @@
 ## :books: WebKnowledges-Notes
 学习笔记、开发技巧、面试题、前后端知识整理
 
+[Vue 知识梳理](https://www.kancloud.cn/chenmk/web-knowledges/1176000#_510)&emsp;[React 知识梳理](https://www.kancloud.cn/chenmk/web-knowledges/1144248)&emsp;[深入 JavaScript](https://www.kancloud.cn/chenmk/web-knowledges/1080516)&emsp;
+
+[手撕代码](https://www.kancloud.cn/chenmk/web-knowledges/1077426)&emsp;[深入浅出 node.js](https://www.kancloud.cn/chenmk/web-knowledges/1178028)
+&emsp;[面试题精选](https://www.kancloud.cn/chenmk/web-knowledges/1170801)
 ## :coffee: 阅读
 [线上版本阅读更清晰](https://www.kancloud.cn/chenmk/web-knowledges/content)
 
