@@ -43,3 +43,11 @@
 
 [canvas API](https://www.canvasapi.cn/)：canvas API 中文文档
 
+## :sparkles: demos
+[vue 开发一个简易的员工管理界面](https://github.com/ChenMingK/staffSystem)
+
+[vue epub 电子书书城](https://github.com/ChenMingK/epub-Proj)
+
+[vue socket.io 简易聊天室](https://github.com/ChenMingK/chat-room)
+
+[react 新手上路-仿简书网](https://github.com/ChenMingK/blog-proj)
