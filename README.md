@@ -26,6 +26,7 @@
   <summary>Vue</summary>
   
 - [Vue 知识整理](https://www.kancloud.cn/chenmk/web-knowledges/1176000)
+- [Vue 书写规范](https://github.com/ChenMingK/Blog/blob/master/Vue/%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83.md)
 </details>
 
 <details>
