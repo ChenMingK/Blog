@@ -13,6 +13,11 @@
 - [事件循环](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JavaScript/event-loop.md)
 - [DOM](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JavaScript/DOM-%E6%A6%82%E5%BF%B5%E5%8F%8AAPI.md)
 - [常见 Coding](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JS-Coding/JS-Coding.md)
+- [正则表达式](https://www.kancloud.cn/chenmk/web-knowledges/1080525)
+- [ES6](https://www.kancloud.cn/chenmk/web-knowledges/1080526)
+- [设计模式](https://www.kancloud.cn/chenmk/web-knowledges/1080527)
+- [AJAX](https://www.kancloud.cn/chenmk/web-knowledges/1106858)
+- [事件](https://www.kancloud.cn/chenmk/web-knowledges/1163864)
 </details>
 
 <details>
@@ -20,6 +25,8 @@
   
 - [CSS Secrets P1](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/CSS/CSS%20Secrets-P1.md)
 - [常见问题](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/CSS/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%981.md)
+- [移动端适配](https://www.kancloud.cn/chenmk/web-knowledges/1201809)
+- [SVG](https://www.kancloud.cn/chenmk/web-knowledges/1179909)
 </details>
 
 <details>
@@ -27,19 +34,29 @@
   
 - [Vue 知识整理](https://www.kancloud.cn/chenmk/web-knowledges/1176000)
 - [Vue 书写规范](https://github.com/ChenMingK/Blog/blob/master/Vue/%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83.md)
+- [vue-router & vuex 的使用](https://www.kancloud.cn/chenmk/web-knowledges/1185871)
+- [深入浅出 Vue](https://www.kancloud.cn/chenmk/web-knowledges/1187397)
 </details>
 
 <details>
   <summary>React</summary>
   
-- [React 知识整理](https://www.kancloud.cn/chenmk/web-knowledges/1144248)
+- [React 基础知识](https://www.kancloud.cn/chenmk/web-knowledges/1144248)
+- [React 书写规范](https://www.kancloud.cn/chenmk/web-knowledges/1144249)
+- [redux & react-router 的使用](https://www.kancloud.cn/chenmk/web-knowledges/1144250)
+- [深入浅出 React 与 Redux 笔记](https://www.kancloud.cn/chenmk/web-knowledges/1164851)
 </details>
 
 
 <details>
-<summary>Browser</summary>
+<summary>Others</summary>
   
 - [Browser](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/Browser/Browser.md)
+- [Performance](https://www.kancloud.cn/chenmk/web-knowledges/1078353)
+- [Safety](https://www.kancloud.cn/chenmk/web-knowledges/1078354)
+- [Network](https://www.kancloud.cn/chenmk/web-knowledges/1078352)
+- [DataStruct](https://www.kancloud.cn/chenmk/web-knowledges/1078351)
+- [Algorithm](https://www.kancloud.cn/chenmk/web-knowledges/1078350)
 </details>
 
 
