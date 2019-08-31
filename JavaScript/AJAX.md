@@ -2,7 +2,7 @@
 HTTP 的 `OPTIONS 方法` 用于获取目的资源所支持的通信选项。
 
 以下三种情况浏览器会在发送正式请求先自动发送一个 OPTIONS 请求：
-- 跨域请求，非跨域请求不会出现options请求  
+- 跨域请求，非跨域请求不会出现 options 请求  
 - 请求设置了自定义的 header 字段
 - 请求头中的 Content-Type 是 application/x-www-form-urlencoded ，multipart/form-data，text/plain 之外的格式
 
@@ -59,19 +59,18 @@ Content-Type: text/plain
 |   load|  在接收到完整的响应数据时触发   |
 |  loadend  |  在通信完成或者触发error、abort或load事件后触发   |
 
-onprogress事件回调方法在`readyState==3`状态时开始触发, 默认传入 ProgressEvent 对象, 可通过`e.loaded/e.total`来计算加载资源的进度, 该方法用于获取资源的下载进度.
+onprogress 事件回调方法在 `readyState==3` 状态时开始触发, 默认传入 ProgressEvent 对象, 可通过 `e.loaded/e.total` 来计算加载资源的进度, 该方法用于获取资源的下载进度.
 ```javaScript
 xhr.onprogress = function(e){ console.log('progress:', e.loaded/e.total); }
 ```
 
 更完整的整理：[AJAX 知识体系大梳理](http://louiszhai.github.io/2016/11/02/ajax/#%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E6%B5%8B%E8%AF%95OPTIONS%E8%AF%B7%E6%B1%82)
-# axios库的使用
-*****
+# axios 库的使用
 安装：`npm install aoxis`
 
 导入：`import axios from axios`
 ## 请求发送的格式
-1.`axios(config)`：通过向axios传递相关配置来创建请求
+1.`axios(config)`：通过向 axios 传递相关配置来创建请求
 ```js
 // 发送 POST 请求
 axios({
@@ -105,7 +104,7 @@ axios.put(url\[, data\[, config\]\])
 
 axios.patch(url\[, data\[, config\]\])
 
-在使用别名方法时，`url`、`method`、`data`这些属性都不必在配置中指定。
+在使用别名方法时，`url`、`method`、`data` 这些属性都不必在配置中指定。
 
 1.只传入一个参数，参数写在URL中
 ```js
@@ -118,7 +117,7 @@ axios.get('/user?ID=12345')
     console.log(error);
   });
 ```
-2.第一个参数为URL，第二个参数为配置选项；`params`是与请求一起发送的URL参数，`data`是作为请求主体被发送的数据，还有其他很多配置项。
+2.第一个参数为 URL，第二个参数为配置选项；`params` 是与请求一起发送的URL参数，`data` 是作为请求主体被发送的数据，还有其他很多配置项。
 ```js
 // 可选地，上面的请求可以这样做
 axios.get('/user', {
@@ -142,7 +141,9 @@ var instance = axios.create({
 });
 ```
 **实例方法**
+
 以下是可用的实例方法。指定的配置将与实例的配置合并
+
 axios#request(config)
 
 axios#get(url\[, config\])
@@ -299,20 +300,20 @@ axios#patch(url\[, data\[, config\]\])
 # fetch API
 参考：[https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch\_API/Using\_Fetch](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
 
-Fetch API 提供了一个全局`fetch()`方法，该方法提供了一种简单，合理的方式来跨网络异步获取资源。
+Fetch API 提供了一个全局 `fetch()` 方法，该方法提供了一种简单，合理的方式来跨网络异步获取资源。
 
-这种功能以前是使用  `XMLHttpRequest` 实现的，使用XMLHttpRequest (XHR) 对象可以与服务器交互。
+这种功能以前是使用  `XMLHttpRequest` 实现的，使用 XMLHttpRequest (XHR) 对象可以与服务器交互。
 
 你可以从 URL 获取数据，而无需让整个的页面刷新。这使得 Web 页面可以只更新页面的局部，而不影响用户的操作。
 
-XMLHttpRequest 在 Ajax 编程中被大量使用。Fetch 提供了一个更好的替代方法，可以很容易地被其他技术使用，例如`Service Workers`。
+XMLHttpRequest 在 Ajax 编程中被大量使用。Fetch 提供了一个更好的替代方法，可以很容易地被其他技术使用，例如 `Service Workers`。
 
 Fetch 还提供了单个逻辑位置来定义其他 HTTP 相关概念，例如 CORS 和 HTTP 的扩展。
 
-请注意，`fetch`规范与`jQuery.ajax()`主要有两种方式的不同，牢记：
+请注意，`fetch` 规范与 `jQuery.ajax()` 主要有两种方式的不同，牢记：
 
-*   当接收到一个代表错误的 HTTP 状态码时，从 `fetch()`返回的 Promise**不会被标记为 reject，** 即使该 HTTP 响应的状态码是 404 或 500。相反，它会将 Promise 状态标记为 resolve （但是会将 resolve 的返回值的`ok`属性设置为 false ），仅当网络故障时或请求被阻止时，才会标记为 reject。
-*   默认情况下，`fetch`**不会从服务端发送或接收任何 cookies**, 如果站点依赖于用户 session，则会导致未经认证的请求（要发送 cookies，必须设置 credentials 选项）。
+*   当接收到一个代表错误的 HTTP 状态码时，从 `fetch()` 返回的 Promise **不会被标记为 reject，** 即使该 HTTP 响应的状态码是 404 或 500。相反，它会将 Promise 状态标记为 resolve （但是会将 resolve 的返回值的`ok`属性设置为 false ），仅当网络故障时或请求被阻止时，才会标记为 reject。
+*   默认情况下，`fetch` **不会从服务端发送或接收任何 cookies**, 如果站点依赖于用户 session，则会导致未经认证的请求（要发送 cookies，必须设置 credentials 选项）。
 
 一个基本的 fetch 请求设置起来很简单。看看下面的代码：
 
