@@ -10,18 +10,18 @@
 <details>
 <summary>JavaScript 基础</summary>
   
-- [基础概念](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JavaScript/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
-- [作用域、作用域链、闭包](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JavaScript/%E4%BD%9C%E7%94%A8%E5%9F%9F%E3%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E4%B8%8E%E9%97%AD%E5%8C%85.md)
-- [this](https://www.kancloud.cn/chenmk/web-knowledges/1219158)
-- [原型与继承](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JavaScript/%E5%8E%9F%E5%9E%8B%E4%B8%8E%E7%BB%A7%E6%89%BF.md)
-- [数组、字符串、Map、Set方法整理](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JavaScript/%E6%95%B0%E7%BB%84%E3%80%81%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%81Map%E3%80%81Set%E6%96%B9%E6%B3%95%E6%95%B4%E7%90%86.md)
-- [事件循环](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JavaScript/event-loop.md)
-- [DOM](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JavaScript/DOM-%E6%A6%82%E5%BF%B5%E5%8F%8AAPI.md)
+- [基础概念](https://github.com/ChenMingK/Blog/blob/master/JavaScript/%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
+- [作用域、作用域链、闭包](https://github.com/ChenMingK/Blog/blob/master/JavaScript/%E4%BD%9C%E7%94%A8%E5%9F%9F%E3%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E4%B8%8E%E9%97%AD%E5%8C%85.md)
+- [this](https://github.com/ChenMingK/Blog/blob/master/JavaScript/this.md)
+- [原型与继承](https://github.com/ChenMingK/Blog/blob/master/JavaScript/%E5%8E%9F%E5%9E%8B%E4%B8%8E%E7%BB%A7%E6%89%BF.md)
+- [数组、字符串、Map、Set方法整理](https://github.com/ChenMingK/Blog/blob/master/JavaScript/%E6%95%B0%E7%BB%84%E3%80%81%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%81Map%E3%80%81Set%E6%96%B9%E6%B3%95%E6%95%B4%E7%90%86.md)
+- [事件循环](https://github.com/ChenMingK/Blog/blob/master/JavaScript/event-loop.md)
+- [DOM](https://github.com/ChenMingK/Blog/blob/master/JavaScript/DOM-%E6%A6%82%E5%BF%B5%E5%8F%8AAPI.md)
 - [常见 Coding](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JS-Coding/JS-Coding.md)
 - [正则表达式](https://www.kancloud.cn/chenmk/web-knowledges/1080525)
-- [ES6](https://www.kancloud.cn/chenmk/web-knowledges/1080526)
-- [设计模式](https://www.kancloud.cn/chenmk/web-knowledges/1080527)
-- [AJAX](https://www.kancloud.cn/chenmk/web-knowledges/1106858)
+- [ES6](https://github.com/ChenMingK/Blog/blob/master/JavaScript/ES6%20%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86.md)
+- [设计模式](https://github.com/ChenMingK/Blog/blob/master/JavaScript/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+- [AJAX](https://github.com/ChenMingK/Blog/blob/master/JavaScript/AJAX.md)
 - [事件](https://www.kancloud.cn/chenmk/web-knowledges/1163864)
 </details>
 
