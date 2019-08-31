@@ -18,7 +18,7 @@
 - [事件循环](https://github.com/ChenMingK/Blog/blob/master/JavaScript/event-loop.md)
 - [DOM](https://github.com/ChenMingK/Blog/blob/master/JavaScript/DOM-%E6%A6%82%E5%BF%B5%E5%8F%8AAPI.md)
 - [常见 Coding](https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/JS-Coding/JS-Coding.md)
-- [正则表达式](https://www.kancloud.cn/chenmk/web-knowledges/1080525)
+- [正则表达式](https://github.com/ChenMingK/Blog/blob/master/JavaScript/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 - [ES6](https://github.com/ChenMingK/Blog/blob/master/JavaScript/ES6%20%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86.md)
 - [设计模式](https://github.com/ChenMingK/Blog/blob/master/JavaScript/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 - [AJAX](https://github.com/ChenMingK/Blog/blob/master/JavaScript/AJAX.md)
@@ -60,8 +60,8 @@
 - [Performance](https://www.kancloud.cn/chenmk/web-knowledges/1078353)
 - [Safety](https://www.kancloud.cn/chenmk/web-knowledges/1078354)
 - [Network](https://www.kancloud.cn/chenmk/web-knowledges/1078352)
-- [DataStruct](https://www.kancloud.cn/chenmk/web-knowledges/1078351)
-- [Algorithm](https://www.kancloud.cn/chenmk/web-knowledges/1078350)
+- [DataStruct](https://www.kancloud.cn/chenmk/web-knowledges/1254425)
+- [Algorithm](https://www.kancloud.cn/chenmk/web-knowledges/1254424)
 </details>
 
 
