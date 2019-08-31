@@ -184,7 +184,7 @@ mc.addEventListener('message', (event) => {
 
 代理服务器的作用大致如下图：
 
-<img src="https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/images/2c3151c5fe2669ff242614c04de86ef0_672x532.png" />
+<img src="https://github.com/ChenMingK/ImagesStore/blob/master/imgs/BlogImgs/808b899f9511b72bd3737262be0d1dcc_600x401.png" />
 
 
 使用 create-react-app 创造的应用已经具备了代理功能，只需要在 package.json 中添加如下一行： 
@@ -283,4 +283,4 @@ response.addHeader("Set-Cookie", "uid=112; Path=/; Secure; HttpOnly");
 粗略地画个图就差不多是这样吧：
 
 
-<img src="https://github.com/ChenMingK/WebKnowledges-Notes/blob/master/images/67aa2ba68d8dac054c77a1b41e798c68_467x324.png" />
+<img src="https://github.com/ChenMingK/ImagesStore/blob/master/imgs/BlogImgs/837a4844bf835d3fa2d14a6d95ed4fab_468x609.png" />
