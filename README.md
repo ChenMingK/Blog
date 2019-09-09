@@ -89,8 +89,6 @@
 - [小火柴的蓝色理想](https://www.cnblogs.com/xiaohuochai/)
 - [技术胖](https://juejin.im/user/5875dfc7a22b9d0058a96d06)
 
-## :book: 图书推荐
-图书馆一大堆书不知道哪本好？推荐一些我读过的觉得比较好的书籍：http://cmk1018.cn/elementor-690/
 ## :hammer: 工具
 - [BootCDN](https://www.bootcdn.cn/)：稳定、快速、免费的前端开源项目 CDN 加速服务
 - [颜色对照表](http://tool.chinaz.com/tools/use)：网页颜色搭配表及颜色搭配技巧
