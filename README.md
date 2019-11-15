@@ -76,7 +76,7 @@
 <details>
   <summary>Canvas & WebGL</summary>
   
-- [Canvas 学习笔记 - 持续更新中...](https://www.kancloud.cn/chenmk/canvas/1315494)
+- [Canvas 学习笔记 - 持续更新中...](https://www.kancloud.cn/chenmk/web-knowledges/1380581)
 </details>
 
 ## :coffee: 阅读
