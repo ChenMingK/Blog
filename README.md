@@ -1,14 +1,3 @@
-## 2021 秋招内推~
-😊 我们是字节跳动互娱研发部门，负责抖音、抖音火山版、直播、音乐、影像等多款明星产品的研发！
-
-😄 HC多多，北京、上海、杭州、成都、深圳、广州各大城市等你！8月3日起即可投递！
-
-🤔 抖音职位汇总链接：https://job.toutiao.com/s/JR8SthH  
-
-✍️ 内推码：86EBS9F
-
-牛客帖：[https://www.nowcoder.com/discuss/374210](https://www.nowcoder.com/discuss/374210)（非本人...）
-
 ## 知识点
 <img src="https://github.com/ChenMingK/Blog/blob/master/images/T7%24DI(QWJ)VK)QBTNCUZF34.png" width=100%>
 
